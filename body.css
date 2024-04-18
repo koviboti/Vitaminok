@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-image: url('vitaminokhatter.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 800px;
+}
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 100px;
+}
+
+.vitamin h2 {
+    color: black;
+    font-size: 120px;
+}
+
+.vitamin p {
+    margin-bottom: 60px;
+}
